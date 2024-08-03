@@ -826,6 +826,10 @@ header .content9 .hero9 li {
     margin-right: 0px;
 }
 
+.content10 .hero10 iframe {
+    margin-left: 120px;
+}
+
 header .content10 {
     min-height: 90vh;
 }
@@ -1085,6 +1089,10 @@ footer {
         padding: 0.5rem 0%;
         max-width: 60rem;
         margin-left: 0;
+    }
+
+    .content10 .hero10 iframe {
+    margin-left: 20px;
     }
 
     header .content2 .hero2 h1,
